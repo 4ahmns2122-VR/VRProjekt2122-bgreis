@@ -23,4 +23,4 @@ Screenshots (concept and experience), Video
 
 ### Limitations/Problems: 
 
-Copyright by smeerws :)
+Copyright by bgreis
