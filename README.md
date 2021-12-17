@@ -1,11 +1,10 @@
 # XRInteractionToolkitTemplate
 
 ### Project description: 
-This project serves as sample project for spatial audio. 
-Explore sound in its basics in virtual reality (VR).
+You visit an Advent market, but you can't leave it until you complete the 2 tasks. By audibly advertising the stalls, the player is lured through the maze. At the end the door of the advent market is open and the player can leave it again. 
 
 ### Development platform: 
-OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
+OS, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
 
 ## Software/Hardware Requirements: 
 Unity hardware requirements *Insert Doc link*
