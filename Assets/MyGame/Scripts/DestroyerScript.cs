@@ -6,6 +6,7 @@ public class DestroyerScript : MonoBehaviour
 {
     private CanGameController gc;
     private GameObject Ball;
+    //public GameObject PrefabBall;
 
     // Start is called before the first frame update
     void Start()
@@ -20,6 +21,12 @@ public class DestroyerScript : MonoBehaviour
             gc.Punkte++;
             Destroy(other.gameObject);
         }
+
+        //if (other.gameObject.tag.Equals("Ball"))
+        //{
+            //Destroy(other.gameObject);
+            //Instantiate(Ball, new Vector3(-5.949, -0.707, -10.502));
+        //}
 
     }
 

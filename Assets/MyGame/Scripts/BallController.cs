@@ -18,7 +18,7 @@ public class BallController : MonoBehaviour
         {
             GameObject BallInstance = Instantiate(ball, emmitter.transform.position, Quaternion.identity);
             rb = BallInstance.GetComponent<Rigidbody>();
-            rb.AddForce(Vector3.forward * Force);
+            //rb.AddForce(Vector3.forward * Force);
         }
     }
 }
