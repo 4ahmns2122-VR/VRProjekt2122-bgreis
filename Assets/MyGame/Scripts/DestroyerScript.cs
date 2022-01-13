@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.XR.Interaction.Toolkit;
 
 public class DestroyerScript : MonoBehaviour
 {
@@ -38,6 +39,7 @@ public class DestroyerScript : MonoBehaviour
         if (gc.punkte == 10) { return; }
 
         GameObject a = Instantiate(PrefabBall) as GameObject;
+        a.GetComponent<XRGrabInteractable>().enabled = true;
         a.transform.position = position;
     }
 
