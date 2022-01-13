@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class CanGameController : MonoBehaviour
 {
-    public int Punkte = 0;
-    public int MaxPunkte = 10;
+    public int punkte = 0;
+    public int maxPunkte = 10;
 
     // Start is called before the first frame update
     void Start()

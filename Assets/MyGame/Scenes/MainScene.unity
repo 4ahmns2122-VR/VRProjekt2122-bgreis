@@ -1465,8 +1465,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 380e15dee1e57443480e17242205b45f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Punkte: 0
-  MaxPunkte: 10
+  punkte: 0
+  maxPunkte: 10
 --- !u!4 &498214225
 Transform:
   m_ObjectHideFlags: 0
@@ -2646,7 +2646,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4054476460464272, guid: 423906e3a82141942aa314fe7f592788, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70483154
+      value: 0.6242573
       objectReference: {fileID: 0}
     - target: {fileID: 4054476460464272, guid: 423906e3a82141942aa314fe7f592788, type: 3}
       propertyPath: m_LocalRotation.x
@@ -2654,7 +2654,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4054476460464272, guid: 423906e3a82141942aa314fe7f592788, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.7093747
+      value: 0.7812188
       objectReference: {fileID: 0}
     - target: {fileID: 4054476460464272, guid: 423906e3a82141942aa314fe7f592788, type: 3}
       propertyPath: m_LocalRotation.z
@@ -2666,7 +2666,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4054476460464272, guid: 423906e3a82141942aa314fe7f592788, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 90.368
+      value: 102.745
       objectReference: {fileID: 0}
     - target: {fileID: 4054476460464272, guid: 423906e3a82141942aa314fe7f592788, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -5635,6 +5635,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca135e360790248f59cd514c01f0eb9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PrefabBall: {fileID: 1341477367}
+  position: {x: -5.949, y: -0.707, z: -10.502001}
 --- !u!1001 &9061054382266555149
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5688,7 +5690,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9061054383559265018, guid: b13c4a0605ffe4871a60bd40ffd6ea55, type: 3}
       propertyPath: m_Name
-      value: f
+      value: Ball
       objectReference: {fileID: 0}
     - target: {fileID: 9061054383559265018, guid: b13c4a0605ffe4871a60bd40ffd6ea55, type: 3}
       propertyPath: m_TagString
