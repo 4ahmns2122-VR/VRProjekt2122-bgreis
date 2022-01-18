@@ -30,8 +30,6 @@ public class DestroyerScript : MonoBehaviour
             spawnBall();
 
         }
-
-
     }
 
     private void spawnBall()
