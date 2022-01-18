@@ -5,6 +5,7 @@ using UnityEngine;
 public class CupGame : MonoBehaviour
 {
     public bool zurueckgestellt;
+    public bool zweitesGame;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +20,10 @@ public class CupGame : MonoBehaviour
             zurueckgestellt = true;
         }
 
+        if (zurueckgestellt == true)
+        {
+            zweitesGame = true;
+        }
 
     }
 }
