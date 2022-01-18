@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Can
   - Ball
+  - Mug
   layers:
   - Default
   - TransparentFX
