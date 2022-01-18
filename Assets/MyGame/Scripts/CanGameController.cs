@@ -7,6 +7,8 @@ public class CanGameController : MonoBehaviour
     public int punkte = 0;
     public int maxPunkte = 10;
     public bool erstesGame;
+    public GameObject gutgemacht;
+    public GameObject dosenwerfen;
 
     // Start is called before the first frame update
     void Start()
@@ -20,6 +22,18 @@ public class CanGameController : MonoBehaviour
         if (punkte == 10)
         {
             erstesGame = true;
+        }
+
+        if (punkte == 10)
+        {
+            GameObject a = gutgemacht;
+            a.GetComponent<AudioSource>().enabled = true;
+        }
+
+        if (punkte == 10)
+        {
+            GameObject a = dosenwerfen;
+            a.GetComponent<AudioSource>().enabled = false;
         }
     }
 }
