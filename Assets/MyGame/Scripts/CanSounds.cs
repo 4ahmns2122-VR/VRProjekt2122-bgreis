@@ -4,20 +4,19 @@ using UnityEngine;
 
 public class CanSounds : MonoBehaviour
 {
-    public GameObject Can1;
+    AudioSource source;
 
     // Start is called before the first frame update
     void Start()
     {
-
+        source = GetComponent<AudioSource>();
     }
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag.Equals("Ball"))
         {
-            GameObject a = Can1;
-            a.GetComponent<AudioSource>().enabled = true;
+            source.PlayOneShot(source.clip);
         }
 
     }

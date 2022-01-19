@@ -4,27 +4,15 @@ using UnityEngine;
 
 public class MugSound : MonoBehaviour
 {
-    public GameObject Mug;
+    AudioSource source;
 
-    // Start is called before the first frame update
     void Start()
     {
-        
+        source = GetComponent<AudioSource>();
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if(true)
-        {
-            GameObject a = Mug;
-            a.GetComponent<AudioSource>().enabled = true;
-        }
-            
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        source.PlayOneShot(source.clip);           
     }
 }
