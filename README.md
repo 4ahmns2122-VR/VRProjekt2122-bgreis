@@ -10,9 +10,9 @@ By audibly advertising the stalls, the player is lured through the maze. At the 
   - Movement in the Maze with Quest/XR Device Simulator (teleport)
   - 2 Games
       - can aiming
-        -You have to throw a ball into 10 cans until every can collided with the Collider
-        -example image at "VISUALS"
-        -cans are making a sound after getting hit by the ball
+         -You have to throw a ball into 10 cans until every can collided with the Collider
+         -example image at "VISUALS"
+         -cans are making a sound after getting hit by the ball
           -can counter goes up by every can that falls off (max. 10)
           -ball repawns after colliding with a collider after hitting the cans
       -getting a mug and putting it back
