@@ -10,18 +10,18 @@ By audibly advertising the stalls, the player is lured through the maze. At the 
   - Movement in the Maze with Quest/XR Device Simulator (teleport)
   - 2 Games
       - can aiming
-         You have to throw a ball into 10 cans until every can collided with the Collider
-         example image at "VISUALS"
-         cans are making a sound after getting hit by the ball
-         can counter goes up by every can that falls off (max. 10)
-         ball repawns after colliding with a collider after hitting the cans.
+         -You have to throw a ball into 10 cans until every can collided with the Collider
+         -example image at "VISUALS"
+          -cans are making a sound after getting hit by the ball
+          -can counter goes up by every can that falls off (max. 10)
+          -ball repawns after colliding with a collider after hitting the cans.
       - getting a mug and putting it back
-         You have to get a mug which stands on a table and then you have to put the mug back
-         example image at "VISUALS"
-         you can grap the mug with your hand in VR/XR Device Simulator
-         then you walk around a few corners 
-         then you place the mug on the second table
-         can makes sounds at colliding with the tables
+         -You have to get a mug which stands on a table and then you have to put the mug back
+         -example image at "VISUALS"
+          -you can grap the mug with your hand in VR/XR Device Simulator
+          -then you walk around a few corners 
+          -then you place the mug on the second table
+          -can makes sounds at colliding with the tables
   - Audio
       - Atmosphere
         -music typically for a Advent Market
