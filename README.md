@@ -23,10 +23,10 @@ By audibly advertising the stalls, the player is lured through the maze. At the 
          then you place the mug on the second table
          can makes sounds at colliding with the tables
   - Audio
-      -Atmosphere
+      - Atmosphere
         -music typically for a Advent Market
         -people talking typically for a Advent Market
-      -Shop owner
+      - Shop owner
         -first owner applies for a can aiming game
         -second owner applies for a mug carring game 
       - Game Sounds
