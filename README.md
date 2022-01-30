@@ -64,7 +64,7 @@ For testing without a headset, use the XR Device Simulator (included in the xr i
 https://www.youtube.com/watch?v=d4bTpkvBwrs
 
 ### Packages:
--Unity UI 1.0.0
+  -Unity UI 1.0.0
 -Version Control 1.9.0
 -Visual Studio Code Editor 1.2.4
 -Visual Studio Editor 2.0.11
