@@ -64,12 +64,12 @@ For testing without a headset, use the XR Device Simulator (included in the xr i
 https://www.youtube.com/watch?v=d4bTpkvBwrs
 
 ### Packages:
-  -Unity UI 1.0.0
-  -Version Control 1.9.0
-  -Visual Studio Code Editor 1.2.4
-  -Visual Studio Editor 2.0.11
-  -XR Interaction Toolkit 1.0.0-pre.8
-  -XR Plugin Management 4.2.0
+  - Unity UI 1.0.0
+  - Version Control 1.9.0
+  - Visual Studio Code Editor 1.2.4
+  - Visual Studio Editor 2.0.11
+  - XR Interaction Toolkit 1.0.0-pre.8
+  - XR Plugin Management 4.2.0
 
 ### Limitations/Problems: 
 XR Device Simulator teleport into the ground with depug view (works on Quest)
