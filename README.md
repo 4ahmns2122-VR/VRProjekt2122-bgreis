@@ -73,12 +73,9 @@ Video coming soon!
 - Audio research for music and background sounds 
 - Audio recording from colleagues for booths
 - Integration of recordings and music
-- Program third minigame
 - Minigame testing on Quest
 - Asset integration 
 - Texturing
-- To Do List Design 
-- Embed To Do List
 - Delivery
 
 ### Third party material: 
