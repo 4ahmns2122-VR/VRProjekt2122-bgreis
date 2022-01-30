@@ -95,6 +95,8 @@ XR Device Simulator teleport into the ground with depug view (works on Quest)
   - Visual Studio Editor 2.0.11
   - XR Interaction Toolkit 1.0.0-pre.8
   - XR Plugin Management 4.2.0
+  - Test Framework 1.1.29
+  - TextMeshPro 3.0.6
 
 ### Assets:
 https://www.textures.com/download/3DScans0783/140825
