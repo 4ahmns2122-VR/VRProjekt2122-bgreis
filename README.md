@@ -42,7 +42,7 @@ By audibly advertising the stalls, the player is lured through the maze. At the 
   - 3 Working mini-games that work on the quest + sounds
 
 ### Development platform: 
-OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
+OS, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
 
 ## Software/Hardware Requirements: 
 Oculus hardware requirements https://support.oculus.com/248749509016567/ You need a VR headset in this case an Oculus Rift/Quest/Quest2
