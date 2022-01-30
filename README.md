@@ -100,5 +100,6 @@ https://www.textures.com/download/3DScans0783/140825
 https://www.textures.com/download/3DScans0536/134405
 https://assetstore.unity.com/packages/3d/props/interior/ygs-mugs-96665
 https://assetstore.unity.com/packages/3d/cola-can-96659
+Sounds from: https://www.zapsplat.com/sound-effect-category/foley/
 
 Copyright by bgreis
