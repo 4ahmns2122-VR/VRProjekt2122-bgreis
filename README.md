@@ -59,9 +59,34 @@ Oculus Rift/S; Quest/2
 
 Video coming soon!
 
+### work steps:
+- Create project with GIT repository
+- Light whiteboxing for where the stands are
+- Build to the quest 
+- Research for assets
+- Program first minigame
+- Minigame testing on Quest
+- Documentation
+- Program second minigame
+- Minigame testing on Quest
+- Documentation for mini-game
+- Audio research for music and background sounds 
+- Audio recording from colleagues for booths
+- Integration of recordings and music
+- Program third minigame
+- Minigame testing on Quest
+- Asset integration 
+- Texturing
+- To Do List Design 
+- Embed To Do List
+- Delivery
+
 ### Third party material: 
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):
 https://www.youtube.com/watch?v=d4bTpkvBwrs
+
+### Limitations/Problems: 
+XR Device Simulator teleport into the ground with depug view (works on Quest)
 
 ### Packages:
   - Unity UI 1.0.0
@@ -71,7 +96,10 @@ https://www.youtube.com/watch?v=d4bTpkvBwrs
   - XR Interaction Toolkit 1.0.0-pre.8
   - XR Plugin Management 4.2.0
 
-### Limitations/Problems: 
-XR Device Simulator teleport into the ground with depug view (works on Quest)
+### Assets:
+https://www.textures.com/download/3DScans0783/140825
+https://www.textures.com/download/3DScans0536/134405
+https://assetstore.unity.com/packages/3d/props/interior/ygs-mugs-96665
+https://assetstore.unity.com/packages/3d/cola-can-96659
 
 Copyright by bgreis
