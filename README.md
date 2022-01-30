@@ -50,7 +50,7 @@ Oculus hardware requirements https://support.oculus.com/248749509016567/ You nee
 When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. (!Enable in Advanced Settings Preview Packages).
 
 ### Target platform: 
-Oculus Rift/S; Quest/2
+Quest/2
 
 ### Visuals: 
 <img width="1292" alt="Screenshot 2022-01-27 at 13 02 24" src="https://user-images.githubusercontent.com/72389948/151355491-543640a4-e966-4e42-8d6e-70864fb99732.png">
