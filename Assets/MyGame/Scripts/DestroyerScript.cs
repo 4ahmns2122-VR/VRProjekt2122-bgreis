@@ -7,8 +7,10 @@ public class DestroyerScript : MonoBehaviour
 {
     private CanGameController gc;
     private GameObject Ball;
-    public GameObject PrefabBall;
+    public GameObject prefabBall;
+    public GameObject parent;
     public Vector3 position;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -36,9 +38,10 @@ public class DestroyerScript : MonoBehaviour
     {
         if (gc.punkte == 10) { return; }
 
-        GameObject a = Instantiate(PrefabBall) as GameObject;
+        GameObject a = Instantiate(prefabBall) as GameObject;
+        a.transform.SetParent(parent.transform);
         a.GetComponent<XRGrabInteractable>().enabled = true;
-        a.transform.position = position;
+        a.transform.localPosition = position;
     }
 
 

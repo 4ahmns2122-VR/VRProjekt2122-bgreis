@@ -19,18 +19,18 @@ public class CanGameController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (punkte == 10)
+        if (punkte > 9)
         {
             erstesGame = true;
         }
 
-        if (punkte == 10)
+        if (punkte > 9)
         {
             GameObject a = gutgemacht;
             a.GetComponent<AudioSource>().enabled = true;
         }
 
-        if (punkte == 10)
+        if (punkte > 9 )
         {
             GameObject a = dosenwerfen;
             a.GetComponent<AudioSource>().enabled = false;
