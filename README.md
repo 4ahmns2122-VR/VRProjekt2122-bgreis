@@ -83,7 +83,12 @@ For testing without a headset, use the XR Device Simulator (included in the xr i
 https://www.youtube.com/watch?v=d4bTpkvBwrs
 
 ### Limitations/Problems: 
-XR Device Simulator teleport into the ground with depug view (works on Quest)
+  - XR Device Simulator teleport into the ground with depug view (works on Quest)
+  - Throwing the Ball in VR (not enough force for really throwing a ball for a longer distance) resolution: smaller table
+  - second game ( can not move and grab at the same time in VR) resolution: tables next to each other
+  - not enough time to test games at the end in VR
+  - not enough time to get the sounds perfectly in VR (should still make sounds on time but not perfectly volumed)
+
 
 ### Packages:
   - Unity UI 1.0.0
