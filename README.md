@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=d4bTpkvBwrs
 ### Limitations/Problems: 
   - XR Device Simulator teleport into the ground with depug view (works on Quest)
   - Throwing the Ball in VR (not enough force for really throwing a ball for a longer distance) resolution: smaller table
-  - second game
+  - second game ( can not move and grab at the same time in VR) resolution: tables next to each other
 
 
 ### Packages:
